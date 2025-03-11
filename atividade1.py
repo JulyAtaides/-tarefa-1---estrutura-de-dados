@@ -1,5 +1,3 @@
-#atividade 1 - Julynane da Costa Ataides
-
 def criar_conta(numero, titular, saldo, limite):
     conta = {"numero": numero, "titular": titular, "saldo": saldo, "limite": limite}
     return conta
